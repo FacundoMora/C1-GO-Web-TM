@@ -1,0 +1,29 @@
+[
+	{
+		"id": 50552122,
+		"nombre": "Facundo",
+		"apellido": "Mora",
+		"email": "facundo.mora@mercadolibre.com",
+		"altura": 1.75,
+		"activo": true,
+		"fechaCreacion": "22/12/2021 12:04:32"
+	},
+	{
+		"id": 55446999,
+		"nombre": "Julio",
+		"apellido": "Dominguez",
+		"email": "julio.dominguez@mercadolibre.com",
+		"altura": 1.95,
+		"activo": true,
+		"fechaCreacion": "22/12/2021 12:01:22"
+	},
+	{
+		"id": 54779663,
+		"nombre": "Pedro",
+		"apellido": "Suarez",
+		"email": "pedro.suarez@mercadolibre.com",
+		"altura": 1.80,
+		"activo": true,
+		"fechaCreacion": "22/12/2021 12:05:14"
+	}
+]
